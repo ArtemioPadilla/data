@@ -1,0 +1,1 @@
+SP500-20220523.csv filter=lfs diff=lfs merge=lfs -text
